@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Ta-Chun Lin (Andrew)",
+    "occupation": ".NET Developer & ReactJS Developer @Sinon Corporation - KSI Inc.",
+    "description": "Full Stack Developer. I aim to have a ReactJS Project every week to every fortnight. Thriving to be one of the top ReactJS Developer",
+    "image": "Andrew.jpg",
+    "bio": "It's Andrew, I'm a Full Stack Developer who have a high expectation on myself. In the upcoming years, I aim to be one of the top ReactJS Developer. ",
+    "contactmessage": "Get in touch with me for further details.",
+    "email": "chuntcdj@gmail.com",
+    "phone": "+886 975 206 418",
+    "address": {
+      "street": "Info as Follows:",
+      "city": "Taipei",
+      "state": "",
+      "zip": "Taiwan"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1LQjBTNWsKaMQGPX3IKGA_QyiBSz5q_Lu/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andrewtclin/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/andrewtclin",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Let's dive deep into the skills that I currently possessed:",
+    "education": [
+      {
+        "school": "University of Queensland",
+        "degree": "Bachelor of Science, Chemistry",
+        "graduated": "Dec. 2017",
+        "description": "Nanotechnology and Material Science"
+      },
+      {
+        "school": "Coursera",
+        "degree": "Computer Software Programming",
+        "graduated": "Jan. 2018 - Present",
+        "description": "Constantly Enhancing the Skills of Technology."
+      }
+    ],
+    "work": [
+      {
+        "company": "Sinon Corporation - KSI Inc.",
+        "title": "Full Stack Engineer",
+        "years": "Sep. 2020 - Present",
+        "description": "With the use of .NET MVC and ReactJS: The development of complex accounting system for government departments, and an online food ordering platform with purchase/ Sales/ Inventory (PSI) System."
+      },
+      {
+        "company": "Six One Cultures Creative Co., Ltd.",
+        "title": "Assistant Business Intelligence | Sales And Marketing Specialist",
+        "years": "Jan. 2018 - Sep. 2019",
+        "description": "With the use of Power BI, SQL, and Excel: Responsible for using the available business data which include sales-revenue statistics, sales-territory response, product-relevant details, and the customer-behaviour to perform a well-rounded analytical data in order to assist the company to make the future decisions and plannings."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "100%"
+      },
+      {
+        "name": "Firebase",
+        "level": "70%"
+      },
+      {
+        "name": "Java/C#",
+        "level": "70%"
+      },
+      {
+        "name": "Microsoft Power BI",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Spotify Clone",
+        "category": "Built with ReactJS + Context API, Material UI",
+        "image": "spotify-clone.png",
+        "url": "https://andrewtclin.github.io/spotify-clone"
+      },
+      {
+        "title": "E-Commerce Platform: Google Sign-in + Credit Card Payment",
+        "category": "Built with ReactJS + Redux, Firebase, Stripe",
+        "image": "e-commerce.png",
+        "url": "https://crwn-essentials.herokuapp.com/"
+      },
+      {
+        "title": "Face Recognition App",
+        "category": "Built with ReactJS, ExpressJS, PostgreSQL",
+        "image": "smart-brain.png",
+        "url": "https://facerecognition-app-smart.herokuapp.com/"
+      },
+      {
+        "title": "Simple, Responsive Robot Cards",
+        "category": "Built with ReactJS + Redux",
+        "image": "robofriends.png",
+        "url": "https://andrewtclin.github.io/robofriends/"
+      },
+      {
+        "title": "PowerBI: Bicycle Manufacturer Data",
+        "category": "Analyzed with Power BI",
+        "image": "powerbi1.png",
+        "url": "https://drive.google.com/file/d/1dabZTKyAjLwCChKtNSNluIlgpOGU-AwX/view?usp=sharing"
+      },
+      {
+        "title": "PowerBI: Grocery Stores Data",
+        "category": "Analyzed with Power BI",
+        "image": "powerbi2.png",
+        "url": "https://drive.google.com/file/d/1gIXxo3gUXoXXxWbCCEBY9yhp93kToKiN/view?usp=sharing"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Andrew is definitely a smart & diligent leader in the group. He’s a creative leader with unlimited great ideas for any given task! Andrew is not only a gifted leader but also an excellent team player. He’s always pursuing the best results & never gives up until he makes it. I highly recommend Andrew to join your business! He will be a valuable asset for your company!",
+        "user": "Po Jui (Jerry) Lien"
+      },
+      {
+        "text": "Andrew shows an incredibly learning speed and level of understanding towards the field of technology and programming, he is definitely a valuable developer!",
+        "user": "Andy Yao"
+      }
+    ]
+  }
+}
