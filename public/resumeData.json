@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Ta-Chun Lin (Andrew)",
-    "occupation": ".NET Developer & ReactJS Developer @Sinon Corporation - KSI Inc.",
-    "description": "Full Stack Developer. I aim to have a ReactJS Project every week to every fortnight. Thriving to be one of the top ReactJS Developer",
+    "occupation": "You meant React? I am the Reactor",
+    "description": "Thriving to be one of the top Developer",
     "image": "Andrew.jpg",
-    "bio": "It's Andrew, I'm a Full Stack Developer who have a high expectation on myself. In the upcoming years, I aim to be one of the top ReactJS Developer. ",
+    "bio": "It's Andrew. Thriving to be one of the top ReactJS Developer. I aim to have a ReactJS Project every fortnight. Bilingual in English and Mandarin ",
     "contactmessage": "Get in touch with me for further details.",
     "email": "chuntcdj@gmail.com",
     "phone": "+886 975 206 418",
@@ -35,14 +35,14 @@
       {
         "school": "University of Queensland",
         "degree": "Bachelor of Science, Chemistry",
-        "graduated": "Dec. 2017",
-        "description": "Nanotechnology and Material Science"
+        "graduated": "May 2014 - Dec. 2017",
+        "description": "👨‍🔬 Nanotechnology and Material Science"
       },
       {
         "school": "Coursera",
         "degree": "Computer Software Programming",
         "graduated": "Jan. 2018 - Present",
-        "description": "Constantly Enhancing the Skills of Technology."
+        "description": "👨‍💻 Constantly Enhancing the Skills of Technology."
       }
     ],
     "work": [
@@ -50,13 +50,13 @@
         "company": "Sinon Corporation - KSI Inc.",
         "title": "Full Stack Engineer",
         "years": "Sep. 2020 - Present",
-        "description": "With the use of .NET MVC and ReactJS: The development of complex accounting system for government departments, and an online food ordering platform with purchase/ Sales/ Inventory (PSI) System."
+        "description": "Developing Projects for Central Government: Using .NET MVC framework + Angular with C#, SQL Server and stored procedure to deal with a large data amount, and develop a well structured with organized data flow projects for government projects | Developing an Online Food Ordering Platform: Using React.js + Redux/Context API with Node.js, connecting with SQL Server/Firebase."
       },
       {
         "company": "Six One Cultures Creative Co., Ltd.",
         "title": "Assistant Business Intelligence | Sales And Marketing Specialist",
         "years": "Jan. 2018 - Sep. 2019",
-        "description": "With the use of Power BI, SQL, and Excel: Responsible for using the available business data which include sales-revenue statistics, sales-territory response, product-relevant details, and the customer-behaviour to perform a well-rounded analytical data in order to assist the company to make the future decisions and plannings."
+        "description": "Analysis Tool: Power BI/ SQL/ Excel | Using the available business data to perform a well-rounded analytical data in order to assist the company to make the future decisions and plannings."
       }
     ],
     "skills": [
@@ -93,21 +93,39 @@
   "portfolio": {
     "projects": [
       {
+        "title": "COVID-19 Immediate Tracker",
+        "category": "ReactJS, MaterialUI, Leaflet",
+        "image": "covid-19-tracker.jpg",
+        "url": "https://covid-19-tracker-52ad2.web.app/"
+      },
+      {
+        "title": "Tik Tok Clone",
+        "category": "MERN Stack - MongoDB, ExpressJS, ReactJS, NodeJS",
+        "image": "tiktok-clone.jpg",
+        "url": "https://tiktok-clone-20599.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Built with ReactJS + Context API, Express.js, Firebase",
+        "image": "amazon-clone.jpg",
+        "url": "https://clone-27359.web.app/"
+      },
+      {
         "title": "Spotify Clone",
         "category": "Built with ReactJS + Context API, Material UI",
-        "image": "spotify-clone.png",
+        "image": "spotify-clone.jpg",
         "url": "https://andrewtclin.github.io/spotify-clone"
       },
       {
         "title": "E-Commerce Platform: Google Sign-in + Credit Card Payment",
         "category": "Built with ReactJS + Redux, Firebase, Stripe",
-        "image": "e-commerce.png",
+        "image": "e-commerce.jpeg",
         "url": "https://crwn-essentials.herokuapp.com/"
       },
       {
         "title": "Face Recognition App",
         "category": "Built with ReactJS, ExpressJS, PostgreSQL",
-        "image": "smart-brain.png",
+        "image": "smart-brain.jpg",
         "url": "https://facerecognition-app-smart.herokuapp.com/"
       },
       {
