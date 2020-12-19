@@ -47,6 +47,12 @@
     ],
     "work": [
       {
+        "company": "Smasoft Technology",
+        "title": "Full Stack Engineer",
+        "years": "Oct. 2020 - Present",
+        "description": "Developing Web Apps for industrial use in the field of Deep Learning, Artificial Intelligence, and Industry 4.0. Skillsets applied in the development are ReactJS + Redux, Material-UI, Python, and MongoDB."
+      },
+      {
         "company": "Sinon Corporation - KSI Inc.",
         "title": "Full Stack Engineer",
         "years": "Sep. 2020 - Present",
@@ -62,15 +68,19 @@
     "skills": [
       {
         "name": "ReactJS",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "JavaScript",
-        "level": "90%"
+        "level": "100%"
       },
       {
         "name": "NodeJS",
-        "level": "70%"
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
       },
       {
         "name": "SQL",
@@ -83,10 +93,6 @@
       {
         "name": "Java/C#",
         "level": "70%"
-      },
-      {
-        "name": "Microsoft Power BI",
-        "level": "80%"
       }
     ]
   },
